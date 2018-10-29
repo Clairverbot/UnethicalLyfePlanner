@@ -1,0 +1,286 @@
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1958"},"Brand":"ALFA ROMEO","Model":"GIULIA 2.0L BASE","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"127236.044"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1959"},"Brand":"ALFA ROMEO","Model":"GIULIA 2.0L","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"163370.352"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f195a"},"Brand":"ALFA ROMEO","Model":"GIULIA 2.0L SUPER","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"131747.448"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f195b"},"Brand":"ASTON MARTIN","Model":"DB11 V8","Engine Capacity (cc)":{"$numberInt":"3982"},"Basic Cost with COE":{"$numberDouble":"652169.3119999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f195c"},"Brand":"AUDI","Model":"A3 SEDAN 1.0 TFSI S TRONIC (LED)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"94683.536"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f195d"},"Brand":"AUDI","Model":"A3 SPORTBACK 1.0 TFSI S TRONIC (LED)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"93268.868"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f195e"},"Brand":"AUDI","Model":"A4 SEDAN 2.0 TFSI S TRONIC (NAV)","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"117916.996"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f195f"},"Brand":"AUDI","Model":"A4 SEDAN 2.0 TFSI S TRONIC","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"117342.22"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1960"},"Brand":"AUDI","Model":"A5 CABRIOLET 2.0 TFSI (DESIGN)","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"164486.28"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1961"},"Brand":"AUDI","Model":"A5 SB 2.0 TFSI S TRONIC (DESIGN)","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"130408.732"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1962"},"Brand":"AUDI","Model":"A6 1.8 TFSI ULTRA (PI) (NAV)","Engine Capacity (cc)":{"$numberInt":"1798"},"Basic Cost with COE":{"$numberDouble":"143766.2"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1963"},"Brand":"AUDI","Model":"Q2 1.0 TFSI S TRONIC","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"100891.428"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1964"},"Brand":"AUDI","Model":"Q3 1.4 TFSI S TRONIC","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"118485.02"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1965"},"Brand":"AUDI","Model":"Q5 SPORT 2.0 TFSI QU S TRONIC","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"158982.012"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1966"},"Brand":"AUDI","Model":"Q7 2.0 TFSI QU (252 BHP)","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"201033.952"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1967"},"Brand":"B.M.W.","Model":"116D 5DR LED EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"104401.9"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1968"},"Brand":"B.M.W.","Model":"118I 5DR LED 16' - 17'","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"92443.736"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1969"},"Brand":"B.M.W.","Model":"216D ACTIVE TOURER LED EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"103155.024"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f196a"},"Brand":"B.M.W.","Model":"216I GT LED NAV MSPT","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"117169.888"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f196b"},"Brand":"B.M.W.","Model":"216I GT LED NAV","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"116134.264"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f196c"},"Brand":"B.M.W.","Model":"216I GT LED","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"110492.296"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f196d"},"Brand":"B.M.W.","Model":"218I ACTIVE TOURER D/AB LED DSC ABS","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"109156.02"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f196e"},"Brand":"B.M.W.","Model":"218I CONVERTIBLE LED NAV","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"123561.248"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f196f"},"Brand":"B.M.W.","Model":"218I COUPE LED NAV SR","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"115517.1"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1970"},"Brand":"B.M.W.","Model":"225XE LED NAV HUD","Engine Capacity (cc)":{"$numberDouble":"NaN"},"Basic Cost with COE":{"$numberDouble":"113856.48800000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1971"},"Brand":"B.M.W.","Model":"318I LED NAV SHAD. LIGHT","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"119569.94"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1972"},"Brand":"B.M.W.","Model":"330E LED NAV HUD","Engine Capacity (cc)":{"$numberDouble":"NaN"},"Basic Cost with COE":{"$numberDouble":"142583.14"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1973"},"Brand":"B.M.W.","Model":"420I CONVERTIBLE LED NAV","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"162409.864"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1974"},"Brand":"B.M.W.","Model":"420I GRAN COUPE LED NAV MSPT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"151144.916"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1975"},"Brand":"B.M.W.","Model":"520I LED NAV MSPT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"169476.79200000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1976"},"Brand":"B.M.W.","Model":"520I LED NAV","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"158338.036"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1977"},"Brand":"B.M.W.","Model":"530E LED NAV","Engine Capacity (cc)":{"$numberDouble":"NaN"},"Basic Cost with COE":{"$numberDouble":"177785.90000000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1978"},"Brand":"B.M.W.","Model":"530E MSPT","Engine Capacity (cc)":{"$numberDouble":"NaN"},"Basic Cost with COE":{"$numberDouble":"193486.744"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1979"},"Brand":"B.M.W.","Model":"530I LED NAV HUD MSPT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"191998.84399999998"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f197a"},"Brand":"B.M.W.","Model":"530I LED NAV","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"182972.576"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f197b"},"Brand":"B.M.W.","Model":"630I GT LED NAV HUD SR MSPT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"210077.652"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f197c"},"Brand":"B.M.W.","Model":"730LI LED NAV HUD SR RCP","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberInt":"261108"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f197d"},"Brand":"B.M.W.","Model":"740LI SR LED NAV HUD RCP","Engine Capacity (cc)":{"$numberInt":"2998"},"Basic Cost with COE":{"$numberDouble":"307342.716"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f197e"},"Brand":"B.M.W.","Model":"750LI M SPORT LASER SR NAV HUD RCP MEXH","Engine Capacity (cc)":{"$numberInt":"4395"},"Basic Cost with COE":{"$numberDouble":"428606.868"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f197f"},"Brand":"B.M.W.","Model":"I3 94AH REX LED NAV","Engine Capacity (cc)":{"$numberDouble":"NaN"},"Basic Cost with COE":{"$numberDouble":"136537.472"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1980"},"Brand":"B.M.W.","Model":"I3S REX NAV","Engine Capacity (cc)":{"$numberDouble":"NaN"},"Basic Cost with COE":{"$numberDouble":"159474.52000000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1981"},"Brand":"B.M.W.","Model":"M2 LED NAV","Engine Capacity (cc)":{"$numberInt":"2979"},"Basic Cost with COE":{"$numberDouble":"212804.98"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1982"},"Brand":"B.M.W.","Model":"M3 COMPETITION PKG LED NAV HUD","Engine Capacity (cc)":{"$numberInt":"2979"},"Basic Cost with COE":{"$numberDouble":"295350.512"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1983"},"Brand":"B.M.W.","Model":"M5 SALOON","Engine Capacity (cc)":{"$numberInt":"4395"},"Basic Cost with COE":{"$numberDouble":"383571.61600000004"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1984"},"Brand":"B.M.W.","Model":"M760LI XDRIVE LASER SR RCP NAV HUD","Engine Capacity (cc)":{"$numberInt":"6592"},"Basic Cost with COE":{"$numberDouble":"437862.152"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1985"},"Brand":"B.M.W.","Model":"X1 SDRIVE18I LED NAV MSPT","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"124946.792"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1986"},"Brand":"B.M.W.","Model":"X1 SDRIVE18I LED NAV","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"123850.92000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1987"},"Brand":"B.M.W.","Model":"X2 SDRIVE20I LED NAV MSPTX","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"146447.73200000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1988"},"Brand":"B.M.W.","Model":"X3 M40I LED NAV HUD","Engine Capacity (cc)":{"$numberInt":"2998"},"Basic Cost with COE":{"$numberDouble":"243178.084"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1989"},"Brand":"B.M.W.","Model":"X3 M40I LED SR NAV HUD","Engine Capacity (cc)":{"$numberInt":"2998"},"Basic Cost with COE":{"$numberDouble":"247584.91999999998"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f198a"},"Brand":"B.M.W.","Model":"X3 SDRIVE20I","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"149195.548"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f198b"},"Brand":"B.M.W.","Model":"X3 XDRIVE30I LED NAV HUD MSPT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"188333.44"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f198c"},"Brand":"B.M.W.","Model":"X3 XDRIVE30I LED NAV HUD SR MSPT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"191609.048"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f198d"},"Brand":"CITROEN","Model":"C3 AIRCROSS FEEL 1.2 PURETECH 110 EAT6","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"75396.344"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f198e"},"Brand":"CITROEN","Model":"C3 AIRCROSS SHINE 1.2 PURETECH 110 EAT6","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"79605.756"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f198f"},"Brand":"CITROEN","Model":"DS5 1.6 THP S&S EAT6 S/R","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"126282.04000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1990"},"Brand":"CITROEN","Model":"GC4 PICASSO 1.2 PURETECH 130 EAT6","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"100297.48000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1991"},"Brand":"FORD","Model":"FOCUS TITANIUM 1.0 GTDI 5DR","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"90179.04000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1992"},"Brand":"FORD","Model":"KUGA TITANIUM 1.5 GTDI A","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"107569.992"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1993"},"Brand":"FORD","Model":"MUSTANG 2.3 GTDI AT","Engine Capacity (cc)":{"$numberInt":"2261"},"Basic Cost with COE":{"$numberDouble":"163380.304"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1994"},"Brand":"HONDA","Model":"CITY 1.5 SV CVT","Engine Capacity (cc)":{"$numberInt":"1497"},"Basic Cost with COE":{"$numberDouble":"75766.352"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1995"},"Brand":"HONDA","Model":"CITY 1.5 V CVT","Engine Capacity (cc)":{"$numberInt":"1497"},"Basic Cost with COE":{"$numberDouble":"73032.40400000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1996"},"Brand":"HONDA","Model":"CIVIC 1.5 TURBO VTIS SR","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"98321.512"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1997"},"Brand":"HONDA","Model":"CIVIC 1.6 VTI CVT","Engine Capacity (cc)":{"$numberInt":"1597"},"Basic Cost with COE":{"$numberDouble":"82214.084"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1998"},"Brand":"HONDA","Model":"CIVIC TYPE R 2.0 TURBO 6MT","Engine Capacity (cc)":{"$numberInt":"1996"},"Basic Cost with COE":{"$numberDouble":"160357.52000000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1999"},"Brand":"HONDA","Model":"CRV 1.5 TURBO CVT 5SEATER","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"103335.024"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f199a"},"Brand":"HONDA","Model":"CRV 1.5 TURBO CVT 7SEATER","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"124650.368"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f199b"},"Brand":"HONDA","Model":"HRV 1.5 DX CVT","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"80231.572"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f199c"},"Brand":"HONDA","Model":"HRV 1.5 LX CVT","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"85609.332"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f199d"},"Brand":"HONDA","Model":"JADE 1.5 RS CVT","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"101220.232"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f199e"},"Brand":"HONDA","Model":"JAZZ 1.3 CVT","Engine Capacity (cc)":{"$numberInt":"1318"},"Basic Cost with COE":{"$numberDouble":"62452.268"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f199f"},"Brand":"HONDA","Model":"JAZZ 1.5 CVT","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"75174.796"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a0"},"Brand":"HONDA","Model":"ODYSSEY 2.4 EX-S CVT","Engine Capacity (cc)":{"$numberInt":"2356"},"Basic Cost with COE":{"$numberDouble":"113509.484"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a1"},"Brand":"HONDA","Model":"ODYSSEY 2.4 EXV-S CVT SR NAVI RES","Engine Capacity (cc)":{"$numberInt":"2356"},"Basic Cost with COE":{"$numberDouble":"126545.872"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a2"},"Brand":"HONDA","Model":"ODYSSEY 2.4 EXV-S CVT SR","Engine Capacity (cc)":{"$numberInt":"2356"},"Basic Cost with COE":{"$numberDouble":"120871.496"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a3"},"Brand":"HYUNDAI","Model":"ACCENT (RB) 1.4 CVT","Engine Capacity (cc)":{"$numberInt":"1368"},"Basic Cost with COE":{"$numberDouble":"55265.168"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a4"},"Brand":"HYUNDAI","Model":"AE IONIQ HEV 1.6 DCT","Engine Capacity (cc)":{"$numberInt":"1580"},"Basic Cost with COE":{"$numberDouble":"81801.676"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a5"},"Brand":"HYUNDAI","Model":"AE IONIQ HEV 1.6 DCT SR","Engine Capacity (cc)":{"$numberInt":"1580"},"Basic Cost with COE":{"$numberDouble":"89837.97200000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a6"},"Brand":"HYUNDAI","Model":"ELANTRA AD 1.6 GLS AT (AMS)","Engine Capacity (cc)":{"$numberInt":"1591"},"Basic Cost with COE":{"$numberDouble":"63912.392"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a7"},"Brand":"HYUNDAI","Model":"I30 PDE 1.4 T-GDI DCT","Engine Capacity (cc)":{"$numberInt":"1353"},"Basic Cost with COE":{"$numberDouble":"66888.90400000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a8"},"Brand":"HYUNDAI","Model":"I30 PDE 1.4 WAGON T-GDI DCT","Engine Capacity (cc)":{"$numberInt":"1353"},"Basic Cost with COE":{"$numberDouble":"68489.988"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19a9"},"Brand":"HYUNDAI","Model":"OS KONA 1.0 T-GDI MT","Engine Capacity (cc)":{"$numberInt":"998"},"Basic Cost with COE":{"$numberDouble":"56512.152"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19aa"},"Brand":"HYUNDAI","Model":"OS KONA 1.6 T-GDI 4WD","Engine Capacity (cc)":{"$numberInt":"1591"},"Basic Cost with COE":{"$numberDouble":"91484.96"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ab"},"Brand":"HYUNDAI","Model":"TL TUCSON 1.6 GLS T-GDI DCT 2WD","Engine Capacity (cc)":{"$numberInt":"1591"},"Basic Cost with COE":{"$numberDouble":"87064.772"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ac"},"Brand":"HYUNDAI","Model":"TL TUCSON 2.0 GLS AT 2WD","Engine Capacity (cc)":{"$numberInt":"1999"},"Basic Cost with COE":{"$numberDouble":"80352.096"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ad"},"Brand":"HYUNDAI","Model":"TL TUCSON 2.0 GLS AT 2WD SR (EPB)","Engine Capacity (cc)":{"$numberInt":"1999"},"Basic Cost with COE":{"$numberDouble":"87037.364"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ae"},"Brand":"INFINITI","Model":"Q30 1.5D PREM DCT EU6","Engine Capacity (cc)":{"$numberInt":"1461"},"Basic Cost with COE":{"$numberDouble":"100331.256"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19af"},"Brand":"INFINITI","Model":"Q30 1.6T PREMIUM DCT","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"107892.256"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b0"},"Brand":"INFINITI","Model":"Q50 2.0T A/T (R18) EU6 NAV","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"127836.476"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b1"},"Brand":"INFINITI","Model":"Q50 2.0T SENSORY PA A/T (R18) EU6 NAV","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"129433.456"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b2"},"Brand":"JAGUAR","Model":"E-PACE 2.0P (249PS)","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"137228.192"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b3"},"Brand":"JAGUAR","Model":"E-PACE 2.0P (300PS)","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"173558.23200000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b4"},"Brand":"JAGUAR","Model":"E-PACE 2.0P S/R (249PS)","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"153823.164"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b5"},"Brand":"JAGUAR","Model":"F-PACE 2.0P RWD","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"187017.172"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b6"},"Brand":"JAGUAR","Model":"F-PACE R-SPORT 3.0 V6 SC SR","Engine Capacity (cc)":{"$numberInt":"2995"},"Basic Cost with COE":{"$numberDouble":"223666.21600000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b7"},"Brand":"JAGUAR","Model":"XE 2.0 I4","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"124454.82"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b8"},"Brand":"JAGUAR","Model":"XF 2.0 I4","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"160798.28"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19b9"},"Brand":"JAGUAR","Model":"XF 2.0P 200PS","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"155288.228"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ba"},"Brand":"JAGUAR","Model":"XJ 2.0 TSS SWB SR","Engine Capacity (cc)":{"$numberInt":"1999"},"Basic Cost with COE":{"$numberDouble":"240612.796"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19bb"},"Brand":"KIA","Model":"CARENS 1.7 DCT DIESEL 5DR FWD","Engine Capacity (cc)":{"$numberInt":"1685"},"Basic Cost with COE":{"$numberDouble":"84857.968"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19bc"},"Brand":"KIA","Model":"CERATO K3 1.6A","Engine Capacity (cc)":{"$numberInt":"1591"},"Basic Cost with COE":{"$numberDouble":"65326.188"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19bd"},"Brand":"KIA","Model":"CERATO K3 1.6A SUNROOF","Engine Capacity (cc)":{"$numberInt":"1591"},"Basic Cost with COE":{"$numberInt":"72048"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19be"},"Brand":"KIA","Model":"FORTE K3 1.6A","Engine Capacity (cc)":{"$numberInt":"1591"},"Basic Cost with COE":{"$numberDouble":"63160.956"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19bf"},"Brand":"KIA","Model":"NIRO HYBRID 1.6 GDI DCT SUNROOF","Engine Capacity (cc)":{"$numberInt":"1580"},"Basic Cost with COE":{"$numberDouble":"89807.848"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c0"},"Brand":"KIA","Model":"SORENTO 2.2(8AT) CRDI 2WD S/R","Engine Capacity (cc)":{"$numberInt":"2199"},"Basic Cost with COE":{"$numberDouble":"102274.844"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c1"},"Brand":"KIA","Model":"SORENTO 2.2(A) CRDI 4WD S/R","Engine Capacity (cc)":{"$numberInt":"2199"},"Basic Cost with COE":{"$numberDouble":"126550.44"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c2"},"Brand":"KIA","Model":"STINGER 2.0A 2WD SUNROOF","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"126317.732"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c3"},"Brand":"LAMBORGHINI","Model":"HURACAN PERFORMANTE","Engine Capacity (cc)":{"$numberInt":"5204"},"Basic Cost with COE":{"$numberDouble":"828940.908"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c4"},"Brand":"LAND ROVER","Model":"DISCOVERY SPORT 2.0P 7 SEATER","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"173944.128"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c5"},"Brand":"LAND ROVER","Model":"DISCOVERY SPORT 2.0P 7 SEATER S/R","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"166407.656"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c6"},"Brand":"LAND ROVER","Model":"RANGE ROVER EVOQUE 2.0P S/R","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"180922.528"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c7"},"Brand":"LAND ROVER","Model":"RANGE ROVER VELAR 2.0P SI4","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"228188.572"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c8"},"Brand":"LAND ROVER","Model":"RANGE ROVER VELAR 2.0P SI4 S/R","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"230383.78"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19c9"},"Brand":"LAND ROVER","Model":"RANGE ROVER VELAR 3.0P SI6 S/C","Engine Capacity (cc)":{"$numberInt":"2995"},"Basic Cost with COE":{"$numberDouble":"315312.844"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ca"},"Brand":"MASERATI","Model":"GHIBLI 3.0 V6","Engine Capacity (cc)":{"$numberInt":"2979"},"Basic Cost with COE":{"$numberDouble":"257186.012"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19cb"},"Brand":"MAZDA","Model":"CX-5 2.0 AT PREMIUM 2WD","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"102298.4"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19cc"},"Brand":"MAZDA","Model":"CX-5 2.0 AT STANDARD 2WD","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"93584.25200000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19cd"},"Brand":"MAZDA","Model":"CX-9 2.5 AT TURBO 2WD EU6","Engine Capacity (cc)":{"$numberInt":"2488"},"Basic Cost with COE":{"$numberDouble":"136185.816"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ce"},"Brand":"MAZDA","Model":"MAZDA2 SEDAN 1.5 AT STANDARD PLUS EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"60257.58"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19cf"},"Brand":"MAZDA","Model":"MAZDA3 HATCHBACK 1.5 AT DELUXE EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"77748.864"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d0"},"Brand":"MAZDA","Model":"MAZDA3 HATCHBACK 1.5 AT STANDARD EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"73409.264"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d1"},"Brand":"MAZDA","Model":"MAZDA3 SEDAN 1.5 AT EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"69827.952"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d2"},"Brand":"MAZDA","Model":"MAZDA3 SEDAN 1.5 AT LED EU6","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"77463.364"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d3"},"Brand":"MAZDA","Model":"MAZDA3 SEDAN SPORTS 2.0 AT EU6","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"79590.876"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d4"},"Brand":"MAZDA","Model":"MAZDA5 WAGON 2.0 AT EU6","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"84942.936"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d5"},"Brand":"MAZDA","Model":"MAZDA6 SEDAN 2.0 AT EXECUTIVE EU6","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"83857.036"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d6"},"Brand":"MAZDA","Model":"MAZDA6 SEDAN 2.0 AT STANDARD EU6","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"79474.39199999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d7"},"Brand":"MAZDA","Model":"MAZDA6 SEDAN 2.5 AT PREMIUM EU6","Engine Capacity (cc)":{"$numberInt":"2488"},"Basic Cost with COE":{"$numberDouble":"106541.22"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d8"},"Brand":"MAZDA","Model":"MAZDA6 WAGON 2.5 AT LUXURY EU6","Engine Capacity (cc)":{"$numberInt":"2488"},"Basic Cost with COE":{"$numberDouble":"105338.988"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19d9"},"Brand":"MERCEDES BENZ","Model":"AMG GLC43 4MATIC (R19 LED)","Engine Capacity (cc)":{"$numberInt":"2996"},"Basic Cost with COE":{"$numberDouble":"234962.508"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19da"},"Brand":"MERCEDES BENZ","Model":"AMG GLC43 4MATIC COUPE (R19 LED)","Engine Capacity (cc)":{"$numberInt":"2996"},"Basic Cost with COE":{"$numberDouble":"235477.936"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19db"},"Brand":"MERCEDES BENZ","Model":"B180 STYLE (R16 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"91194.52"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19dc"},"Brand":"MERCEDES BENZ","Model":"C180 AVANTGARDE (R17 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"138559.05599999998"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19dd"},"Brand":"MERCEDES BENZ","Model":"C180 COUPE (R17 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"145204.24"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19de"},"Brand":"MERCEDES BENZ","Model":"C200 SEDAN AVG (R17 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"141900.82"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19df"},"Brand":"MERCEDES BENZ","Model":"CLA180 COUPE URBAN (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"106010.016"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e0"},"Brand":"MERCEDES BENZ","Model":"CLA180 SB URBAN (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"114891.772"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e1"},"Brand":"MERCEDES BENZ","Model":"CLA200 COUPE URBAN (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"110997.844"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e2"},"Brand":"MERCEDES BENZ","Model":"E200 AVG (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"179073.6"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e3"},"Brand":"MERCEDES BENZ","Model":"E200 COUPE (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"199264.948"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e4"},"Brand":"MERCEDES BENZ","Model":"E200 EXCLUSIVE (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"185994.896"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e5"},"Brand":"MERCEDES BENZ","Model":"E250 AVG (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"188535.912"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e6"},"Brand":"MERCEDES BENZ","Model":"E250 EXCLUSIVE (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"194734.75199999998"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e7"},"Brand":"MERCEDES BENZ","Model":"E300 AMG LINE (R19 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"218848.348"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e8"},"Brand":"MERCEDES BENZ","Model":"E300 CAB (R19 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"262313.032"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19e9"},"Brand":"MERCEDES BENZ","Model":"GLA180 URBAN (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"106042.424"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ea"},"Brand":"MERCEDES BENZ","Model":"GLA200 URBAN (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1595"},"Basic Cost with COE":{"$numberDouble":"112299.584"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19eb"},"Brand":"MERCEDES BENZ","Model":"GLC200 (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"152121.108"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ec"},"Brand":"MERCEDES BENZ","Model":"GLC250 4MATIC (R18 LED SR)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"161810.348"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ed"},"Brand":"MERCEDES BENZ","Model":"GLC250 4MATIC (R18 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"158230.492"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ee"},"Brand":"MERCEDES BENZ","Model":"GLC250 4MATIC COUPE AMG LINE (R19 LED)","Engine Capacity (cc)":{"$numberInt":"1991"},"Basic Cost with COE":{"$numberDouble":"177308.14"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ef"},"Brand":"MERCEDES BENZ","Model":"S320L (R19 LED)","Engine Capacity (cc)":{"$numberInt":"2996"},"Basic Cost with COE":{"$numberDouble":"312722.284"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f0"},"Brand":"MERCEDES BENZ","Model":"S450L (R19 LED)","Engine Capacity (cc)":{"$numberInt":"2996"},"Basic Cost with COE":{"$numberDouble":"345671.54000000004"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f1"},"Brand":"MINI","Model":"COOPER CLUBMAN AT LED","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"112884.496"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f2"},"Brand":"MINI","Model":"COOPER COUNTRYMAN LED NAV 0717","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"123827.364"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f3"},"Brand":"MINI","Model":"COOPER S CLUBMAN AT LED NAV","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"125993.552"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f4"},"Brand":"MINI","Model":"JCW 3DR LCI HUD","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"135269.05599999998"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f5"},"Brand":"MINI","Model":"JCW 3DR LED SR HUD NSP","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"135196.388"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f6"},"Brand":"MINI","Model":"MINI COOPER S COUNTRYMAN LED NAV","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"144381.052"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f7"},"Brand":"MINI","Model":"ONE 3DR LED","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"83078.704"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f8"},"Brand":"MINI","Model":"ONE 5DR LED","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"86470.68"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19f9"},"Brand":"MITSUBISHI","Model":"ASX 2.0 CVT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"85328.932"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19fa"},"Brand":"MITSUBISHI","Model":"ATTRAGE 1.2 CVT","Engine Capacity (cc)":{"$numberInt":"1193"},"Basic Cost with COE":{"$numberDouble":"59267.616"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19fb"},"Brand":"MITSUBISHI","Model":"ECLIPSE CROSS 1.5 CVT","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"93626.796"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19fc"},"Brand":"MITSUBISHI","Model":"ECLIPSE CROSS 1.5 CVT S/R","Engine Capacity (cc)":{"$numberInt":"1499"},"Basic Cost with COE":{"$numberDouble":"97142.83600000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19fd"},"Brand":"MITSUBISHI","Model":"OUTLANDER 2.0 CVT","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"90168.728"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19fe"},"Brand":"MITSUBISHI","Model":"OUTLANDER 2.0 CVT SUNROOF","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"97767.82400000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f19ff"},"Brand":"MITSUBISHI","Model":"SPACE STAR 1.2 CVT","Engine Capacity (cc)":{"$numberInt":"1193"},"Basic Cost with COE":{"$numberDouble":"60418.08"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a00"},"Brand":"NISSAN","Model":"ELGRAND HIGHWAY STAR 2.5 MCVT 8AB LED","Engine Capacity (cc)":{"$numberInt":"2488"},"Basic Cost with COE":{"$numberDouble":"138254.78"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a01"},"Brand":"NISSAN","Model":"NOTE 1.2 CVT","Engine Capacity (cc)":{"$numberInt":"1198"},"Basic Cost with COE":{"$numberDouble":"58733.471999999994"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a02"},"Brand":"NISSAN","Model":"QASHQAI 1.2 DIG-T CVT","Engine Capacity (cc)":{"$numberInt":"1197"},"Basic Cost with COE":{"$numberDouble":"83445.428"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a03"},"Brand":"NISSAN","Model":"QASHQAI 2.0 CVT","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"100137.596"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a04"},"Brand":"NISSAN","Model":"SYLPHY 1.6 CVT","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"74160.7"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a05"},"Brand":"NISSAN","Model":"X-TRAIL 2.0 CVT","Engine Capacity (cc)":{"$numberInt":"1997"},"Basic Cost with COE":{"$numberDouble":"102827.164"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a06"},"Brand":"OPEL","Model":"ASTRA HB 1.0 AT (LED)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberInt":"84339"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a07"},"Brand":"OPEL","Model":"ASTRA HB 1.4 AT","Engine Capacity (cc)":{"$numberInt":"1399"},"Basic Cost with COE":{"$numberDouble":"98508.208"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a08"},"Brand":"OPEL","Model":"ASTRA ST 1.0 AT (LED)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"84942.9"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a09"},"Brand":"OPEL","Model":"ASTRA ST 1.0 AT","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"88684.796"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a0a"},"Brand":"OPEL","Model":"CROSSLAND X B12XHT AT","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"88676.944"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a0b"},"Brand":"OPEL","Model":"GRANDLAND X 1.2T 6AT","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"112033.312"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a0c"},"Brand":"OPEL","Model":"INSIGNIA GRANDSPORT B15XHT","Engine Capacity (cc)":{"$numberInt":"1490"},"Basic Cost with COE":{"$numberDouble":"119811.31599999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a0d"},"Brand":"OPEL","Model":"INSIGNIA GRANDSPORT B16DTH","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"100156.768"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a0e"},"Brand":"OPEL","Model":"MOKKA X 1.6 CDTI 6AT (LED)","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"96441.52799999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a0f"},"Brand":"PERODUA","Model":"AXIA STD HI 1.0 AT (JZ)","Engine Capacity (cc)":{"$numberInt":"998"},"Basic Cost with COE":{"$numberDouble":"59524.828"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a10"},"Brand":"PEUGEOT","Model":"2008 ACTIVE PURETECH 1.2 EAT6 (FL) S/R","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"70309.228"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a11"},"Brand":"PEUGEOT","Model":"3008 ACTIVE PURETECH 1.2 EAT6","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"90142.008"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a12"},"Brand":"PEUGEOT","Model":"3008 ALLURE 1.6 E-THP EAT6","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"113785.736"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a13"},"Brand":"PEUGEOT","Model":"3008 ALLURE PURETECH 1.2 EAT6","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"102649.448"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a14"},"Brand":"PEUGEOT","Model":"308 SW ALLURE PURETECH 1.2 A/T 2WD","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"89626.48000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a15"},"Brand":"PEUGEOT","Model":"308 SW ALLURE PURETECH 1.2 A/T 2WD","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"85992.944"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a16"},"Brand":"PEUGEOT","Model":"5008 ACTIVE 1.6 E-THP EAT6","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"114414.19200000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a17"},"Brand":"PEUGEOT","Model":"5008 ACTIVE PURETECH 1.2 EAT6","Engine Capacity (cc)":{"$numberInt":"1199"},"Basic Cost with COE":{"$numberDouble":"98983.504"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a18"},"Brand":"PEUGEOT","Model":"5008 ALLURE 1.6 E-THP EAT6","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"126084.024"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a19"},"Brand":"PORSCHE","Model":"718 CAYMAN (982) PDK E6","Engine Capacity (cc)":{"$numberInt":"1988"},"Basic Cost with COE":{"$numberDouble":"242175.78399999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a1a"},"Brand":"PORSCHE","Model":"CAYENNE E3 TIP E6","Engine Capacity (cc)":{"$numberInt":"2995"},"Basic Cost with COE":{"$numberDouble":"317293.172"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a1b"},"Brand":"PORSCHE","Model":"CAYENNE E3 TIP E6 SR","Engine Capacity (cc)":{"$numberInt":"2995"},"Basic Cost with COE":{"$numberDouble":"312605.49199999997"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a1c"},"Brand":"PORSCHE","Model":"MACAN PDK CYP E6","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"217875.876"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a1d"},"Brand":"PORSCHE","Model":"MACAN PDK E6 SR","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"225024.188"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a1e"},"Brand":"PORSCHE","Model":"PANAMERA G2 PDK E6","Engine Capacity (cc)":{"$numberInt":"2995"},"Basic Cost with COE":{"$numberDouble":"362638.836"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a1f"},"Brand":"PORSCHE","Model":"PANAMERA G2 PDK E6 W/SR","Engine Capacity (cc)":{"$numberInt":"2995"},"Basic Cost with COE":{"$numberDouble":"383341.328"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a20"},"Brand":"RENAULT","Model":"GRAND SCENIC IV 1.5 DCI AT EU6","Engine Capacity (cc)":{"$numberInt":"1461"},"Basic Cost with COE":{"$numberDouble":"86926.96"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a21"},"Brand":"RENAULT","Model":"MEGANE SEDAN 1.2 TCE AT EU6 LED","Engine Capacity (cc)":{"$numberInt":"1197"},"Basic Cost with COE":{"$numberDouble":"82303.16"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a22"},"Brand":"RENAULT","Model":"SCENIC IV 1.5L DCI AT EU6","Engine Capacity (cc)":{"$numberInt":"1461"},"Basic Cost with COE":{"$numberDouble":"81223.46"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a23"},"Brand":"RENAULT","Model":"SCENIC IV 1.5L DCI AT SR EU6","Engine Capacity (cc)":{"$numberInt":"1461"},"Basic Cost with COE":{"$numberDouble":"85285.152"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a24"},"Brand":"SEAT","Model":"ARONA FR 1.0 TSI 116 7AT","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"74973.024"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a25"},"Brand":"SEAT","Model":"ARONA STYLE 1.0 TSI 116 7AT","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"69594.336"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a26"},"Brand":"SEAT","Model":"ATECA 1.4 TSI 150 XCELLENCE 6AT","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"106993.116"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a27"},"Brand":"SEAT","Model":"IBIZA 5DR 1.0 TSI 116 STYLE 7AT","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"76810.14"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a28"},"Brand":"SEAT","Model":"LEON 5DR CUPRA 2.0 TSI 290 6AT","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"122194.508"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a29"},"Brand":"SEAT","Model":"LEON ST 1.0 TSI 116 STYLE 7AT","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"92050.932"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a2a"},"Brand":"SKODA","Model":"KODIAQ 2.0 TSI 4X4 (A)","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"126757.308"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a2b"},"Brand":"SKODA","Model":"OCTAVIA 1.0 TSI AMBITION (A)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"77479.352"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a2c"},"Brand":"SKODA","Model":"OCTAVIA 1.0 TSI AMBITION PLUS (A)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"79642.3"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a2d"},"Brand":"SKODA","Model":"RAPID SB 1.0 TSI AMBITION (A)","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"72863.388"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a2e"},"Brand":"SKODA","Model":"SUPERB L&K 2.0 TSI (A)","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"122702.18400000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a2f"},"Brand":"SSANGYONG","Model":"TIVOLI 1.6G 6AT 2WD ESP E6 FL","Engine Capacity (cc)":{"$numberInt":"1597"},"Basic Cost with COE":{"$numberDouble":"86385.31599999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a30"},"Brand":"SUBARU","Model":"FORESTER 2.0I-L CVT AWD SR","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"67129.372"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a31"},"Brand":"SUBARU","Model":"FORESTER 2.0XT CVT AWD SR","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"94312.552"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a32"},"Brand":"SUBARU","Model":"IMPREZA 4D 2.0I-S EYESIGHT AWD CVT","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"69849.61600000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a33"},"Brand":"SUBARU","Model":"IMPREZA 5D 2.0 I-S EYESIGHT AWD CVT","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"69758.256"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a34"},"Brand":"SUBARU","Model":"XV 2.0I-S EYESIGHT AWD CVT","Engine Capacity (cc)":{"$numberInt":"1995"},"Basic Cost with COE":{"$numberDouble":"74346.812"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a35"},"Brand":"SUZUKI","Model":"VITARA 1.6 GLX 6AT 2WD","Engine Capacity (cc)":{"$numberInt":"1586"},"Basic Cost with COE":{"$numberDouble":"91540.952"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a36"},"Brand":"TOYOTA","Model":"ALPHARD ELEGANCE MR (AUTO)","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"177567.528"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a37"},"Brand":"TOYOTA","Model":"CAMRY 2.0 AUTO","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"116341.10399999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a38"},"Brand":"TOYOTA","Model":"CAMRY 2.5 AUTO","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"118359.67199999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a39"},"Brand":"TOYOTA","Model":"C-HR 1.2 TURBO ACTIVE (AUTO)","Engine Capacity (cc)":{"$numberInt":"1197"},"Basic Cost with COE":{"$numberDouble":"97482.74799999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a3a"},"Brand":"TOYOTA","Model":"C-HR 1.2 TURBO LUXURY (AUTO)","Engine Capacity (cc)":{"$numberInt":"1197"},"Basic Cost with COE":{"$numberDouble":"107478.364"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a3b"},"Brand":"TOYOTA","Model":"COROLLA ALTIS ELEGANCE AUTO","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"87281.264"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a3c"},"Brand":"TOYOTA","Model":"COROLLA ALTIS STANDARD AUTO","Engine Capacity (cc)":{"$numberInt":"1598"},"Basic Cost with COE":{"$numberDouble":"81734.444"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a3d"},"Brand":"TOYOTA","Model":"FORTUNER 2.7 (A)","Engine Capacity (cc)":{"$numberInt":"2694"},"Basic Cost with COE":{"$numberDouble":"132087.148"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a3e"},"Brand":"TOYOTA","Model":"HARRIER G GRADE","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"129613.484"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a3f"},"Brand":"TOYOTA","Model":"HARRIER M GRADE","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"120909.47200000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a40"},"Brand":"TOYOTA","Model":"LEXUS ES250 EXECUTIVE A/T S/R","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"145367.38"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a41"},"Brand":"TOYOTA","Model":"LEXUS ES250 LUXURY A/T S/R","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"157964.192"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a42"},"Brand":"TOYOTA","Model":"LEXUS ES300H EXECUTIVE CVT S/R","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"142349.24800000002"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a43"},"Brand":"TOYOTA","Model":"LEXUS ES300H LUXURY CVT S/R","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"150699.772"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a44"},"Brand":"TOYOTA","Model":"LEXUS IS300 EXECUTIVE","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"151366.12"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a45"},"Brand":"TOYOTA","Model":"LEXUS LS350 LUXURY MR (AUTO)","Engine Capacity (cc)":{"$numberInt":"3456"},"Basic Cost with COE":{"$numberDouble":"332068.816"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a46"},"Brand":"TOYOTA","Model":"LEXUS NX300 EXECUTIVE","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"155633.68"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a47"},"Brand":"TOYOTA","Model":"LEXUS NX300 LUXURY S/R","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"171950.116"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a48"},"Brand":"TOYOTA","Model":"LEXUS NX300H LUXURY S/R","Engine Capacity (cc)":{"$numberInt":"2960"},"Basic Cost with COE":{"$numberDouble":"167753.036"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a49"},"Brand":"TOYOTA","Model":"LEXUS RX300 5DR SUV (AT) (4WD) LUXURY","Engine Capacity (cc)":{"$numberInt":"1998"},"Basic Cost with COE":{"$numberDouble":"201917.448"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a4a"},"Brand":"TOYOTA","Model":"LEXUS RX350 LUXURY AT SR","Engine Capacity (cc)":{"$numberInt":"3456"},"Basic Cost with COE":{"$numberDouble":"249525.556"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a4b"},"Brand":"TOYOTA","Model":"LEXUS RX350L PREMIUM","Engine Capacity (cc)":{"$numberInt":"3456"},"Basic Cost with COE":{"$numberDouble":"232035.992"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a4c"},"Brand":"TOYOTA","Model":"PREVIA AERAS 2.4 CVT MR","Engine Capacity (cc)":{"$numberInt":"2362"},"Basic Cost with COE":{"$numberDouble":"140788.876"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a4d"},"Brand":"TOYOTA","Model":"PRIUS C HYBRID 1.5 CVT","Engine Capacity (cc)":{"$numberInt":"1497"},"Basic Cost with COE":{"$numberDouble":"84355.888"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a4e"},"Brand":"TOYOTA","Model":"PRIUS PLUS (AUTO)","Engine Capacity (cc)":{"$numberInt":"1798"},"Basic Cost with COE":{"$numberDouble":"92048.98800000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a4f"},"Brand":"TOYOTA","Model":"RAV4 PREMIUM 2.0 CVT","Engine Capacity (cc)":{"$numberInt":"1987"},"Basic Cost with COE":{"$numberDouble":"119828.204"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a50"},"Brand":"TOYOTA","Model":"SIENTA 1.5 CVT ELEGANCE","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"79916.38"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a51"},"Brand":"TOYOTA","Model":"SIENTA 1.5 CVT STD","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"75896.54000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a52"},"Brand":"TOYOTA","Model":"VELLFIRE ELEGANCE MOONROOF (AUTO)","Engine Capacity (cc)":{"$numberInt":"2494"},"Basic Cost with COE":{"$numberDouble":"177567.528"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a53"},"Brand":"TOYOTA","Model":"VIOS E (AUTO)","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"67473.148"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a54"},"Brand":"TOYOTA","Model":"VIOS G (AUTO)","Engine Capacity (cc)":{"$numberInt":"1496"},"Basic Cost with COE":{"$numberDouble":"71422.18400000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a55"},"Brand":"TOYOTA","Model":"WISH 1.8 CVT","Engine Capacity (cc)":{"$numberInt":"1798"},"Basic Cost with COE":{"$numberDouble":"81797.22"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a56"},"Brand":"VOLKSWAGEN","Model":"ARTEON R-LINE","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"169937.116"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a57"},"Brand":"VOLKSWAGEN","Model":"BEETLE 1.2 TSI","Engine Capacity (cc)":{"$numberInt":"1197"},"Basic Cost with COE":{"$numberDouble":"82388.532"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a58"},"Brand":"VOLKSWAGEN","Model":"CADDY 1.4 TSI AT SABHK5","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"95931.596"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a59"},"Brand":"VOLKSWAGEN","Model":"CADDY MAXI 1.4 TSI AT SAJHK5","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"97369.82"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a5a"},"Brand":"VOLKSWAGEN","Model":"GOLF 1.4 TSI CL","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"81914.88"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a5b"},"Brand":"VOLKSWAGEN","Model":"GOLF 1.4 TSI HL","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"94793.18"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a5c"},"Brand":"VOLKSWAGEN","Model":"GOLF GTI 2.0 DSG","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"120867.112"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a5d"},"Brand":"VOLKSWAGEN","Model":"GOLF R 2.0 DSG","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"153280.612"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a5e"},"Brand":"VOLKSWAGEN","Model":"GOLF TSI TL","Engine Capacity (cc)":{"$numberInt":"999"},"Basic Cost with COE":{"$numberDouble":"78100.6"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a5f"},"Brand":"VOLKSWAGEN","Model":"PASSAT B8 1.8 TFSI AT 3G24JZ","Engine Capacity (cc)":{"$numberInt":"1798"},"Basic Cost with COE":{"$numberDouble":"99859.244"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a60"},"Brand":"VOLKSWAGEN","Model":"PASSAT B8 1.8 TFSI AT SR NAV 17W 3G24JZ","Engine Capacity (cc)":{"$numberInt":"1798"},"Basic Cost with COE":{"$numberDouble":"114443.5"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a61"},"Brand":"VOLKSWAGEN","Model":"PASSAT B8 2.0 TFSI 3G24MY R-LINE AID","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"131014.732"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a62"},"Brand":"VOLKSWAGEN","Model":"PASSAT VARIANT R-LINE 2.0 TSI HUD","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"145602.272"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a63"},"Brand":"VOLKSWAGEN","Model":"SHARAN 2.0 TSI 7N24MY","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"132930.508"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a64"},"Brand":"VOLKSWAGEN","Model":"SPORTSVAN 1.4 AT AM13HZ CL","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"88619.98000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a65"},"Brand":"VOLKSWAGEN","Model":"TIGUAN COMFORTLINE 280 TSI EQP","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"111615.16399999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a66"},"Brand":"VOLKSWAGEN","Model":"TIGUAN HIGHLINE 280 TSI","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"121113.24"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a67"},"Brand":"VOLKSWAGEN","Model":"TIGUAN R-LINE 380 TSI","Engine Capacity (cc)":{"$numberInt":"1984"},"Basic Cost with COE":{"$numberDouble":"151766.62"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a68"},"Brand":"VOLKSWAGEN","Model":"TOURAN 1.4 TSI CL 5T13NZ HLG","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"92139.46"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a69"},"Brand":"VOLKSWAGEN","Model":"TOURAN 1.4 TSI CL 5T13NZ","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"94418.576"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a6a"},"Brand":"VOLKSWAGEN","Model":"TOURAN 1.4 TSI TL 5T12NZ","Engine Capacity (cc)":{"$numberInt":"1395"},"Basic Cost with COE":{"$numberDouble":"84879.24"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a6b"},"Brand":"VOLVO","Model":"S60 T2","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"97528.576"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a6c"},"Brand":"VOLVO","Model":"S60 T5 A/T ABS D/AIRBAG 2WD","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"100186.89199999999"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a6d"},"Brand":"VOLVO","Model":"S60 T5 R-DESIGN A/T S/R","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"110551.70000000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a6e"},"Brand":"VOLVO","Model":"V40 T2 (A)","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"91800.52"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a6f"},"Brand":"VOLVO","Model":"V40 T2 R-DESIGN (A) SR","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"95904.756"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a70"},"Brand":"VOLVO","Model":"V60 T2 (A)","Engine Capacity (cc)":{"$numberInt":"1498"},"Basic Cost with COE":{"$numberDouble":"104721.696"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a71"},"Brand":"VOLVO","Model":"XC40 T5 MOMENTUM","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"107982.728"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a72"},"Brand":"VOLVO","Model":"XC40 T5 R-DESIGN","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"113528.47200000001"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a73"},"Brand":"VOLVO","Model":"XC60 T5 MOMENTUM","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"141003.78"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a74"},"Brand":"VOLVO","Model":"XC60 T6 R-DESIGN","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"165511.984"}}
+{"_id":{"$oid":"5b6c6f75a282fc098c8f1a75"},"Brand":"VOLVO","Model":"XC90 T5 MOMENTUM (A) AWD","Engine Capacity (cc)":{"$numberInt":"1969"},"Basic Cost with COE":{"$numberDouble":"199032.636"}}

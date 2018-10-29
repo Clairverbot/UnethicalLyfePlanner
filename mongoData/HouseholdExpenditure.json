@@ -1,0 +1,30 @@
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bac"},"Expenditure Quintile":"Expenditure Quintile - 1st - 20th","Category":"Clothing and Footwear","Value":{"$numberDouble":"27.9"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bad"},"Expenditure Quintile":"Expenditure Quintile - 1st - 20th","Category":"Communication","Value":{"$numberInt":"129"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bae"},"Expenditure Quintile":"Expenditure Quintile - 1st - 20th","Category":"Food and Non-Alcoholic Beverages","Value":{"$numberDouble":"250.7"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8baf"},"Expenditure Quintile":"Expenditure Quintile - 1st - 20th","Category":"Health","Value":{"$numberDouble":"75.2"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb0"},"Expenditure Quintile":"Expenditure Quintile - 1st - 20th","Category":"Housing and Utilities","Value":{"$numberDouble":"209.3"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb1"},"Expenditure Quintile":"Expenditure Quintile - 1st - 20th","Category":"Transport","Value":{"$numberDouble":"170.4"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb2"},"Expenditure Quintile":"Expenditure Quintile - 21st - 40th","Category":"Clothing and Footwear","Value":{"$numberDouble":"64.7"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb3"},"Expenditure Quintile":"Expenditure Quintile - 21st - 40th","Category":"Communication","Value":{"$numberDouble":"191.9"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb4"},"Expenditure Quintile":"Expenditure Quintile - 21st - 40th","Category":"Food and Non-Alcoholic Beverages","Value":{"$numberDouble":"365.7"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb5"},"Expenditure Quintile":"Expenditure Quintile - 21st - 40th","Category":"Health","Value":{"$numberDouble":"144.3"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb6"},"Expenditure Quintile":"Expenditure Quintile - 21st - 40th","Category":"Housing and Utilities","Value":{"$numberDouble":"256.4"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb7"},"Expenditure Quintile":"Expenditure Quintile - 21st - 40th","Category":"Transport","Value":{"$numberDouble":"403.3"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb8"},"Expenditure Quintile":"Expenditure Quintile - 41st - 60th","Category":"Clothing and Footwear","Value":{"$numberDouble":"126.6"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bb9"},"Expenditure Quintile":"Expenditure Quintile - 41st - 60th","Category":"Communication","Value":{"$numberDouble":"225.2"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bba"},"Expenditure Quintile":"Expenditure Quintile - 41st - 60th","Category":"Food and Non-Alcoholic Beverages","Value":{"$numberDouble":"444.9"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bbb"},"Expenditure Quintile":"Expenditure Quintile - 41st - 60th","Category":"Health","Value":{"$numberDouble":"222.8"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bbc"},"Expenditure Quintile":"Expenditure Quintile - 41st - 60th","Category":"Housing and Utilities","Value":{"$numberDouble":"328.5"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bbd"},"Expenditure Quintile":"Expenditure Quintile - 41st - 60th","Category":"Transport","Value":{"$numberDouble":"663.4"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bbe"},"Expenditure Quintile":"Expenditure Quintile - 61st - 80th","Category":"Clothing and Footwear","Value":{"$numberDouble":"207.4"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bbf"},"Expenditure Quintile":"Expenditure Quintile - 61st - 80th","Category":"Communication","Value":{"$numberDouble":"252.9"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc0"},"Expenditure Quintile":"Expenditure Quintile - 61st - 80th","Category":"Food and Non-Alcoholic Beverages","Value":{"$numberDouble":"494.2"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc1"},"Expenditure Quintile":"Expenditure Quintile - 61st - 80th","Category":"Health","Value":{"$numberDouble":"309.7"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc2"},"Expenditure Quintile":"Expenditure Quintile - 61st - 80th","Category":"Housing and Utilities","Value":{"$numberInt":"437"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc3"},"Expenditure Quintile":"Expenditure Quintile - 61st - 80th","Category":"Transport","Value":{"$numberInt":"1035"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc4"},"Expenditure Quintile":"Expenditure Quintile - 81st - 100th","Category":"Clothing and Footwear","Value":{"$numberDouble":"353.6"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc5"},"Expenditure Quintile":"Expenditure Quintile - 81st - 100th","Category":"Communication","Value":{"$numberDouble":"284.2"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc6"},"Expenditure Quintile":"Expenditure Quintile - 81st - 100th","Category":"Food and Non-Alcoholic Beverages","Value":{"$numberDouble":"563.9"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc7"},"Expenditure Quintile":"Expenditure Quintile - 81st - 100th","Category":"Health","Value":{"$numberDouble":"555.3"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc8"},"Expenditure Quintile":"Expenditure Quintile - 81st - 100th","Category":"Housing and Utilities","Value":{"$numberDouble":"889.4"}}
+{"_id":{"$oid":"5b7014e9a282fc1c70ed8bc9"},"Expenditure Quintile":"Expenditure Quintile - 81st - 100th","Category":"Transport","Value":{"$numberDouble":"1783.3"}}
