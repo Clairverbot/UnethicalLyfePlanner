@@ -1,4 +1,4 @@
-# Project Title
+# Unethical Lyfe Planner
 
 Programming for data science assignment. Not so ethical, take it with a pinch of salt c:
 
