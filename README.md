@@ -18,7 +18,3 @@ npm start
 cd client
 npm start
 ```
-
-### Disclaimer
-
-This is my first project on VueJS. It's definitely not perfect, so help.
